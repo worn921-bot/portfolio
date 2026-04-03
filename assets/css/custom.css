@@ -1,4 +1,4 @@
-.link-buttoon {
+.link-buttoon  {
     text-decoration: none;
     display: block;
     width: 120px;
@@ -6,4 +6,21 @@
     background-color:  #000;
     color: #fff
     
+}
+.btn_link {
+    text-decoration: none;
+    color:#fff;
+    display: block;
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: #553CE2;
+    text-align: center;
+    line-height: 60px;
+    font-size: 1.2rem;
+    margin-bottom: 50px;
+
+}
+.btn_link:hover {
+    color: #FBFB8F;
 }
